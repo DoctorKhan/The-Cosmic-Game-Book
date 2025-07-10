@@ -1,7 +1,7 @@
 # The Consciousness Technologies
 ## Rediscovering Ancient Tools for Modern Liberation
 
-**Compiled**: 2025-07-10 11:39:40
+**Compiled**: 2025-07-10 12:40:04
 
 ---
 
