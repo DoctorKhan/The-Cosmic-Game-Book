@@ -1,0 +1,68 @@
+site_name: The Consciousness Technologies
+site_description: A comprehensive guide to psychedelics, plant medicines, and consciousness-altering
+  practices as tools for breaking free from programming and accessing authentic spiritual
+  experience.
+site_author: Rez Khan
+site_url: https://universalbookcompiler.com/40_The_Consciousness_Technologies/
+site_dir: ../site_build
+docs_dir: docs
+nav:
+- index.md
+- The Consciousness Technologies: the-consciousness-technologies.md
+- Downloads: downloads/index.md
+theme:
+  name: material
+  palette:
+  - scheme: default
+    primary: deep purple
+    accent: purple
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - scheme: slate
+    primary: deep purple
+    accent: purple
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  features:
+  - navigation.tabs
+  - navigation.sections
+  - navigation.expand
+  - navigation.top
+  - navigation.footer
+  - search.highlight
+  - search.share
+  - content.code.copy
+  - content.action.edit
+  - content.action.view
+  - content.tabs.link
+  font:
+    text: Inter
+    code: Fira Code
+plugins:
+- search
+markdown_extensions:
+- pymdownx.highlight
+- pymdownx.superfences
+- pymdownx.tabbed
+- pymdownx.details
+- pymdownx.critic
+- pymdownx.caret
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.tilde
+- admonition
+- codehilite
+- toc
+- tables
+- footnotes
+- attr_list
+- md_in_html
+extra_css:
+- stylesheets/custom.css
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/DoctorKhan/Universal-Book-Compiler
+copyright: Copyright &copy; 2025 Rez Khan
