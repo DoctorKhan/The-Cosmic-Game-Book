@@ -8,7 +8,9 @@ site_dir: ../site_build
 docs_dir: docs
 nav:
 - index.md
-- The Consciousness Technologies: the-consciousness-technologies.md
+- Manual Override: manual-override.md
+- Additional Content:
+  - the-consciousness-technologies.md
 - Downloads: downloads/index.md
 theme:
   name: material
