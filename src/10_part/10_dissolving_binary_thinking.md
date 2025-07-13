@@ -1,4 +1,4 @@
-# Chapter 10: Beyond Binary - Transcending Either/Or Programming
+# Chapter 2: Beyond Binary - Transcending Either/Or Programming
 
 *"The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth."* - Niels Bohr
 
