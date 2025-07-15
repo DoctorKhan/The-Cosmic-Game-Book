@@ -4,7 +4,7 @@ site_description: A comprehensive guide to psychedelics, plant medicines, and co
   experience.
 site_author: Rez Khan
 site_url: https://universalbookcompiler.com/40_The_Consciousness_Technologies/
-site_dir: ../site_build
+site_dir: output/web_build
 docs_dir: docs
 nav:
 - index.md
