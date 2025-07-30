@@ -169,13 +169,16 @@ From the highest cosmic perspective, ***Wl̥kʷós*** accomplished exactly what 
 
 The ***Wl̥kʷós*** teaching reveals why the hell world includes what appears to be suffering and corruption: these experiences are precisely calibrated to develop vital charge control that transcends physical existence entirely.
 
-**The Hell World Training Progression:**
-1. **Unconscious Participation**: Being controlled without awareness, dying body creating baseline urgency
-2. **Conscious Resistance**: Fighting control systems under mortality pressure, developing initial vital charge control
-3. **Power Acquisition**: Gaining the ability to control others, intensifying vital charge development through responsibility
-4. **Corruption Experience**: Becoming what you fought against, forcing development of capabilities that transcend power itself
-5. **Recognition**: Seeing the pattern and its inevitability, understanding the hell world's design
-6. **Transcendence**: Moving beyond the control/resistance dynamic entirely, achieving vital charge mastery that continues after death
+**The Samsaric Whirlpool Progression:**
+1. **Unconscious Spinning**: Being caught in karmic whirlpools without awareness, dying body creating baseline urgency
+2. **Conscious Resistance**: Fighting the currents under mortality pressure, developing initial vital charge control through action (karma)
+3. **Power Acquisition**: Gaining ability to create new whirlpools, intensifying karmic patterns through responsibility and choice
+4. **Corruption Experience**: Becoming trapped in the very whirlpools you created, forcing recognition of the samsaric mechanism
+5. **Recognition**: Seeing the whirlpool pattern and its inevitability, understanding how action creates binding currents
+6. **Moksha Attempt**: Trying to escape individual whirlpools, achieving temporary liberation while leaving the system intact
+7. **Nirodha Realization**: Developing the capability to cancel the currents themselves, dissolving whirlpools rather than escaping them
+
+***Wl̥kʷós*** achieved moksha through his liberation victory, but his corruption revealed the limitation—escaping one whirlpool while creating new ones. True mastery requires nirodha: the ability to cancel the karmic currents that generate whirlpools entirely.
 
 **The Continuation Beyond Physical Death:**
 The hell world's ultimate purpose is not the surface story of heroes and villains, but the development of consciousness capabilities that survive bodily death. Every intense experience—whether labeled success or failure—serves to develop control over vital charges that transcend the physical training environment.
@@ -220,3 +223,5 @@ The story of ***Wl̥kʷós*** is ultimately a gift from the cosmic game to devel
 *In the end, ***Wl̥kʷós*** achieved the ultimate victory: he became a teaching that would help countless other consciousnesses understand their role in the cosmic training system. Whether we serve as wolves creating harsh conditions, or as souls developing vital charge control through those conditions, we are all participants in the same magnificent hell world curriculum designed to develop consciousness beyond the limitations of physical existence.*
 
 *The Chinvat Bridge awaits us all—not as judgment, but as the final test of what we have actually developed through our intense experiences in this training environment. The Wolf-Prince shows us that even apparent corruption and failure can be perfect preparation for that crossing.*
+
+*To understand the deeper mechanics of how consciousness becomes bound and how it can achieve true liberation, we must examine the samsaric whirlpools themselves—the self-perpetuating patterns that trap consciousness in cycles of action and reaction, and the profound difference between escaping these patterns and cancelling them entirely.*
