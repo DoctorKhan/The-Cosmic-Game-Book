@@ -1,4 +1,4 @@
-# Chapter 7: The Wolf-Prince Teaching: Why Heroes Must Fall
+# Chapter 9: The Wolf-Prince Teaching: Why Heroes Must Fall
 
 *In the vast library of cosmic consciousness, there exists a story that illuminates one of the most profound aspects of the training environment we call reality. It is the tale of a being who achieved everything a hero is supposed to achieve—and in doing so, discovered why the universe is designed to ensure that even the greatest victories contain the seeds of their own corruption.*
 
