@@ -1,4 +1,4 @@
-# Conclusion: The Great Work - From Student to Gardener
+# Chapter 13: Conclusion: The Great Work - From Student to Gardener
 
 *Sarah stood in her garden at dawn, her hands deep in the rich earth, feeling the pulse of life flowing through the soil. Three years ago, she had been a successful corporate executive, climbing the ladder of external achievement while feeling increasingly empty inside. The awakening had been gradual—first the recognition of her programming, then the development of the Observer, then the understanding of her charges as sacred curriculum.*
 

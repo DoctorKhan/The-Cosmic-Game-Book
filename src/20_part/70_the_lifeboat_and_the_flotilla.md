@@ -1,4 +1,4 @@
-# Chapter 8: The Lifeboat and the Flotilla: Universal Grace and Conscious Community
+# Chapter 12: The Lifeboat and the Flotilla: Universal Grace and Conscious Community
 
 There is a fear that this path of awakening is a ladder only a few can climb—that it creates a spiritual elite who look down upon the "unconscious masses" while claiming superiority through their knowledge. This fear is understandable, for many spiritual traditions have indeed fallen into this trap. But this understanding is based on a fundamental misperception of what awakening actually is.
 
