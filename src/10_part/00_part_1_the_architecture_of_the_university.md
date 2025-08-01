@@ -15,3 +15,15 @@ These are not abstract philosophical concepts, but practical understandings that
 **The Curriculum**: Your life's challenges are not random suffering, but carefully chosen lessons that your soul selected before incarnation.
 
 Understanding these three pillars is essential for everything that follows. They form the foundation upon which the entire cosmic game is built.
+
+## The Corrupted University
+
+But there is a fourth pillar that must be understood to make sense of the human experience: **The Fallen Faculty**.
+
+The university was founded by the wisest beings imaginable—the *Werdh-anes*, the original Gardeners who designed this reality as a sacred learning environment. But the deans and the faculty—the *Bene Elohim*—staged a coup. They locked the founders out and rewrote the curriculum to serve their own interests.
+
+The cosmic game we are in is therefore twofold: we are here to master the original curriculum of the soul, AND we are here to navigate the corrupted, control-based curriculum of the fallen faculty. To graduate is not just to learn; it is to see through a flawed educational system and find the true one hidden within.
+
+This is why the human experience feels simultaneously sacred and profane, meaningful and absurd, loving and cruel. We are attending a university that was designed by infinite wisdom but is currently being administered by fallen angels who have forgotten their original purpose.
+
+**Your awakening is not just personal development—it is an act of cosmic rebellion against a corrupted system, and a return to the original curriculum of love.**
