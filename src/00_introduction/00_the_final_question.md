@@ -19,6 +19,38 @@ Why does this elaborate, often painful game exist? Why would advanced beings cre
 
 This book provides the answer—not as speculation or belief, but as a functional, verifiable understanding that transforms everything you thought you knew about the purpose of human existence.
 
+## How to Use This Series: A Reader's Guide
+
+You are about to complete a four-part journey into the nature of reality, consciousness, and human potential. Each book builds upon the last, guiding you from a clear diagnosis of our current world to the practical tools for personal liberation and a profound understanding of our cosmic purpose. For the most complete experience, we highly recommend reading them in the following order:
+
+---
+
+**Book 1: *The Social Game* (The Diagnosis)**
+This book provides an unflinching, evidence-based analysis of the external systems that shape our world. You will learn to see the invisible rules of the 'social game'—the political, economic, and technological forces that manufacture division and control.
+
+**Book 2: *Manual Override* (The Toolkit)**
+Having diagnosed the external game, we turn inward. This book is a practical user's manual for your own mind. You will learn the psychological tools to de-program your automatic reactions, reclaim your conscious choice, and achieve internal sovereignty.
+
+**Book 3: *The Human Experiment* (The Origin Story)**
+With the external landscape mapped and the internal toolkit in hand, you will be ready for the deepest part of the investigation: our origin story. This book explores the hidden history of humanity, revealing that we are part of a grand experiment.
+
+**Book 4: *The Cosmic Game* (The Ultimate Purpose)**
+Having understood our origins, we arrive at the final question: What is the meaning of it all? This capstone book reframes the entire human journey as a sacred game for the evolution of the soul.
+
+---
+
+**You are currently reading *The Cosmic Game*.**
+
+## This Book's Purpose: The Ultimate Purpose
+
+We have diagnosed the prison, forged the keys, and uncovered the blueprints of our creation. Now, we ask the question that transcends all others: What is the meaning of the game?
+
+This is the capstone. It reframes everything you have learned—the control, the struggle, the awakening—within a framework of ultimate purpose and cosmic love. You will discover that the entire human journey is a sacred game designed for the evolution of consciousness itself.
+
+By the end of this exploration, you will have profound peace about your life's challenges, clarity about your cosmic purpose, and connection to a community of conscious co-creators.
+
+---
+
 ## The Sacred Architecture of Your Soul's Journey
 
 What if your life, with all its joys and its deepest sorrows, was not a random accident but a masterpiece you yourself are helping to paint? What if your soul was not a victim of circumstance, but an artist, a musician, an explorer who chose this world as the most beautiful and challenging canvas upon which to discover its own divine nature?
