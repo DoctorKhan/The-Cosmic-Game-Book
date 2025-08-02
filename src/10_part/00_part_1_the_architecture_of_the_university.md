@@ -1,4 +1,4 @@
-# Chapter 1: The Architecture of the University
+## Part 1: The Architecture of the University
 
 Before we can understand the purpose of the cosmic game, we must first understand its fundamental structure. What you call "reality" is far more sophisticated and intentional than it appears.
 
