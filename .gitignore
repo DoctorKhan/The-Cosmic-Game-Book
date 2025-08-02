@@ -10,8 +10,9 @@ __pycache__/
 *.bak
 .DS_Store
 
-# Build/output folders
-output/
+# Build/output folders - keep final compiled books but ignore temp files
+output/web_build/
+output/temp/
 site/
 build/
 dist/
