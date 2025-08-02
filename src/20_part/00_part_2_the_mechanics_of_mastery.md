@@ -1,4 +1,4 @@
-# Chapter 5: The Mechanics of Mastery
+# Chapter 6: The Mechanics of Mastery
 
 Understanding the architecture of the cosmic university is only the beginning. Now you must learn how the learning process actually works—the specific mechanisms by which consciousness evolves through experience.
 

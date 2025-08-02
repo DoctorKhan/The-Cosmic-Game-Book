@@ -1,4 +1,4 @@
-# Chapter 8: The Compass of the Soul: Navigating with the Four Freedoms
+# Chapter 9: The Compass of the Soul: Navigating with the Four Freedoms
 
 In *Manual Override*, you learned the Four Freedoms as practical tools for conscious living. Now you will understand their true nature: they are not merely psychological techniques but universal laws of consciousness—the fundamental principles that govern all conscious navigation through the cosmic game.
 

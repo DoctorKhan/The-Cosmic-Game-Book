@@ -1,4 +1,4 @@
-# Chapter 6: The Cosmic Rhythm: The Universal Learning Cycle
+# Chapter 7: The Cosmic Rhythm: The Universal Learning Cycle
 
 In *Manual Override*, you discovered the Cosmic Rhythm as a practical tool for consciousness development. Now you will understand its true nature: it is the fundamental operating system of the universe itself—the universal learning cycle through which all consciousness evolves.
 

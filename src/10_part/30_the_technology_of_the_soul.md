@@ -1,4 +1,4 @@
-# Chapter 4: The Technology of the Soul: The Sacred Alchemy of Transformation
+# Chapter 5: The Technology of the Soul: The Sacred Alchemy of Transformation
 
 This chapter reveals one of the most transformative truths about human existence: your deepest struggles are not random misfortunes or psychological flaws. They are the sacred materials your soul chose to bring into this life—the lead that only the fire of earthly experience could transform into gold.
 

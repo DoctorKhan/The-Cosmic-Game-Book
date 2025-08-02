@@ -1,4 +1,4 @@
-# Chapter 7: The Physics of Choice: How the Player Moves the Piece
+# Chapter 8: The Physics of Choice: How the Player Moves the Piece
 
 The most profound question in the cosmic game is this: How does non-physical consciousness influence physical reality? How does the eternal soul move the temporary personality? How does awareness create change in the material world?
 

@@ -1,4 +1,4 @@
-# Chapter 10: The Samsaric Whirlpools: The Mechanics of Karmic Binding
+# Chapter 11: The Samsaric Whirlpools: The Mechanics of Karmic Binding
 
 *In the deepest understanding of the cosmic training environment, consciousness does not simply experience random challenges. It becomes caught in vast, self-perpetuating whirlpools of action and reaction—what the ancient traditions called samsara. These are not metaphors but actual energetic structures that bind consciousness through the very mechanism of choice itself.*
 

@@ -1,4 +1,4 @@
-# Chapter 14: Conclusion: Your Invitation to the Flotilla
+# Chapter 15: Conclusion: Your Invitation to the Flotilla
 
 There is a fear that this path of awakening is a ladder only a few can climb—that it creates a spiritual elite who look down upon the "unconscious masses" while claiming superiority through their knowledge. This fear is understandable, for many spiritual traditions have indeed fallen into this trap. But this understanding is based on a fundamental misperception of what awakening actually is.
 

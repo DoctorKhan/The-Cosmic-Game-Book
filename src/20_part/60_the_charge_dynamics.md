@@ -1,4 +1,4 @@
-# Chapter 11: The Charge Dynamics: Understanding the Forces That Drive Consciousness
+# Chapter 12: The Charge Dynamics: Understanding the Forces That Drive Consciousness
 
 *In the deepest analysis of any event—whether it appears beneficial or harmful—we must understand the fundamental forces that compel consciousness movement. These are not emotions or thoughts, but abstract charges that function like magnetic fields in the mental landscape, automatically drawing the attention needle of the mind toward or away from specific points.*
 
