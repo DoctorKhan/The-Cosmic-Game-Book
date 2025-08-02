@@ -8,7 +8,7 @@ This glossary defines the specialized vocabulary used throughout the Consciousne
 
 **The Observer**: The awareness that watches thoughts, emotions, and experiences without being identified with them. Your true identity as consciousness itself, distinct from the content of consciousness.
 
-**The Player vs. The Piece**: The Player is your eternal soul/consciousness; the Piece is your temporary human personality/avatar. Most people mistake themselves for the piece and forget they are the player.
+**The Player vs. The Autopilot**: The Player is your eternal soul/consciousness, the source of conscious choice. The Autopilot is the temporary human personality and its conditioned programming. Most people identify with the Autopilot, forgetting they are the Player who can consciously take the controls.
 
 **The Scribe vs. The Conscious Author**: The Scribe unconsciously rationalizes whatever happens; the Conscious Author deliberately creates meaning from experience. The difference between being lived by life versus consciously living life.
 
@@ -72,7 +72,7 @@ This glossary defines the specialized vocabulary used throughout the Consciousne
 
 #### Practical Terms
 
-**NPC (Non-Player Character)**: A person operating primarily from unconscious programming rather than conscious choice. Not a judgment but a description of a state of consciousness.
+**The Autopilot / The Automatic Self**: A metaphor for the state of operating from unconscious programming rather than conscious choice. It refers to the collection of habits, beliefs, and reactive patterns that run automatically, like a pilot flying a familiar route. This is a description of a temporary state or process, not a permanent label for a person.
 
 **The Glitch**: Moments when the simulation reveals its true nature, often experienced as synchronicities, mystical experiences, or sudden insights into the nature of reality.
 
