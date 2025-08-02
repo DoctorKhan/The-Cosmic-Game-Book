@@ -14,6 +14,12 @@ The path we describe is not a ladder; it is the ocean itself. And we are all lea
 
 This is not a path of spiritual elitism—it is a recognition of spiritual democracy. Every being is already enrolled in the same school, working on the same fundamental curriculum: learning to love unconditionally, to choose consciously, to create from higher awareness, and to serve the evolution of all life.
 
+#### The Fortress vs. The Flotilla: Two Responses to Awakening
+
+This is why the NPC model, if misunderstood, can be so dangerous and lead directly to the 'Fortress' response. The Fortress builder sees a world of flawed NPCs to be avoided. They look down from their iron walls with judgment and superiority.
+
+The Flotilla builder, however, has mastered the Prime Directive. They understand that behind every automated script is a fellow Player, a soul on the same stormy ocean, who simply hasn't remembered how to take the controls yet. Your job is not to judge their inept AI or their leaky raft, but to lash your vessel to theirs, share your navigation charts, and help them hear the whispers of their own inner navigator.
+
 #### The Flotilla: The Power of Conscious Community
 
 **A lone swimmer learns slowly.** But we are not meant to swim alone. The purpose of awakening is not to achieve individual enlightenment in isolation—it is to form what we might call a **flotilla**.
