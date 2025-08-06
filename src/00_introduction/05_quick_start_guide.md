@@ -10,6 +10,7 @@ This Quick Start Guide distills the core practices from the entire series into a
 **Goal**: Develop the ability to watch your thoughts without being controlled by them.
 
 **Daily Practice** (10 minutes):
+
 - Set a timer for 10 minutes
 - Sit comfortably and simply observe your thoughts
 - Don't try to stop thinking or achieve any special state
@@ -17,6 +18,7 @@ This Quick Start Guide distills the core practices from the entire series into a
 - When you get lost in a thought, gently return to observing
 
 **Investigation Questions**:
+
 - Who is watching the thoughts?
 - Are you your thoughts, or are you the awareness that observes them?
 - What happens to your emotional reactions when you observe them instead of being them?
@@ -25,12 +27,14 @@ This Quick Start Guide distills the core practices from the entire series into a
 **Goal**: Recognize your emotional reactions as sacred curriculum rather than random suffering.
 
 **Daily Practice**:
+
 - Each time you feel triggered, angry, or upset, pause and ask:
   - "What is this trying to teach me?"
   - "How might this challenge be perfectly designed for my growth?"
   - "What would I need to learn to respond differently?"
 
 **Investigation Questions**:
+
 - Do your challenges follow patterns?
 - What qualities are your difficulties trying to develop in you?
 - How might your struggles be gifts in disguise?
@@ -39,11 +43,13 @@ This Quick Start Guide distills the core practices from the entire series into a
 **Goal**: Experience the difference between automatic reaction and conscious response.
 
 **Daily Practice**:
+
 - Before responding to any challenging situation, take three conscious breaths
 - Ask: "What would love do here?"
 - Choose your response from awareness rather than automatic programming
 
 **Investigation Questions**:
+
 - How does it feel to respond consciously versus reactively?
 - What changes when you pause before reacting?
 - Where do you have more choice than you previously realized?
@@ -52,6 +58,7 @@ This Quick Start Guide distills the core practices from the entire series into a
 **Goal**: Practice conscious authoring of your life's story.
 
 **Daily Practice**:
+
 - Each evening, review your day and ask:
   - "What did I learn today?"
   - "How did today's experiences serve my growth?"
@@ -59,6 +66,7 @@ This Quick Start Guide distills the core practices from the entire series into a
   - "How could I tell a more empowering story?"
 
 **Investigation Questions**:
+
 - Are you the victim of your circumstances or the author of your experience?
 - How does changing your story change your experience?
 - What would your life look like if you saw everything as curriculum?
@@ -66,12 +74,14 @@ This Quick Start Guide distills the core practices from the entire series into a
 #### The Daily Check-In Protocol
 
 Each morning, ask yourself:
+
 1. **Observer**: "Who is aware right now?"
 2. **Curriculum**: "What is today trying to teach me?"
 3. **Choice**: "How can I respond consciously today?"
 4. **Meaning**: "What story will I tell about today?"
 
 Each evening, reflect:
+
 1. **Observer**: "When did I remember I was the watcher today?"
 2. **Curriculum**: "What did my challenges teach me?"
 3. **Choice**: "Where did I choose consciousness over automation?"

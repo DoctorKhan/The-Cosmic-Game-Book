@@ -75,16 +75,19 @@ Most souls move through this rhythm unconsciously, taking many lifetimes to comp
 #### Practical Applications
 
 **When in Phase 1 (Immersion)**:
+
 - Allow yourself to fully experience without judgment
 - Gather information and let the experience unfold
 - Don't try to force awareness—immersion serves a purpose
 
 **When in Phase 2 (Awakening)**:
+
 - Practice Observer techniques to create space
 - Question your identifications and assumptions
 - Begin to see patterns rather than isolated events
 
 **When in Phase 3 (Integration)**:
+
 - Make conscious choices aligned with your highest understanding
 - Use the energy of the experience for creative action
 - Maintain awareness while remaining fully engaged

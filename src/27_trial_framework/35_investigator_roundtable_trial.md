@@ -1,6 +1,7 @@
 ### Chapter 35: Investigator Roundtable: Peer Review of the Complete Investigation
 
 **Participants:**
+
 - **Dr. Anya Sharma:** Moderator
 - **Orion:** Lead Investigator of the Consciousness Quartet
 - **Dr. Aris Thorne:** Evolutionary Biologist, author of *The Accidental Ape*

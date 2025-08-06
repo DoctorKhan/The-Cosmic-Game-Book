@@ -83,6 +83,7 @@ One of the most important distinctions between NPC consciousness and soul consci
 The NPC is controlled by **The Scribe**—an unconscious mechanism that constantly rewrites your personal history to maintain a consistent identity and avoid cognitive dissonance. The Scribe operates automatically, editing your memories and perceptions to preserve your programming.
 
 **How the NPC's Scribe Operates:**
+
 - **Rationalization**: "That business failed because the market was bad" (preserving ego from responsibility)
 - **Victim Stories**: "Bad things always happen to me" (maintaining helpless identity)
 - **Consistency Maintenance**: Editing memories to match current beliefs and self-image
@@ -95,12 +96,14 @@ The Scribe is a slave to consistency. It will sacrifice truth, growth, and authe
 The awakened soul, however, engages in **Conscious Authoring**—the deliberate choice of what meaning to derive from experiences. This is not rationalization to avoid pain; it is intentional alchemy to create wisdom.
 
 **How Conscious Authoring Works:**
+
 - **Responsibility Taking**: "I choose to see how I contributed to this outcome"
 - **Growth Orientation**: "What is this experience here to teach me?"
 - **Meaning Creation**: "I will build my future story on the foundation of wisdom gained"
 - **Alchemical Transformation**: Converting all experiences—even failures and tragedies—into soul development
 
 **The Crucial Difference:**
+
 - **The Scribe** says: "That business failed because the market was bad" (preserving the ego)
 - **The Conscious Author** says: "I choose to narrate that business failure as the most valuable lesson I ever received in humility and resilience. I will build my future story on that foundation of wisdom."
 

@@ -84,18 +84,22 @@ Wu Wei is the art of acting in harmony with the natural flow of consciousness an
 The Four Freedoms work together as a complete navigation system. When you're lost, confused, or stuck in the cosmic game, you can use them to find your way:
 
 **Step 1: Check Your Identity (Anatta)**
+
 - What are you identifying with that might be limiting you?
 - Are you being the Player or getting trapped in the piece?
 
 **Step 2: Check Your Impact (Ahimsa)**  
+
 - Are your thoughts, words, and actions contributing to evolution or devolution?
 - How can you serve the highest good in this situation?
 
 **Step 3: Check Your Attachments (Akatta)**
+
 - What outcomes are you grasping that might be blocking flow?
 - Where can you engage more fully while holding more lightly?
 
 **Step 4: Check Your Effort (Wu Wei)**
+
 - Are you forcing or flowing?
 - How can you achieve your intention through alignment rather than struggle?
 

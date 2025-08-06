@@ -23,6 +23,7 @@ Charges are the fundamental attractive and repulsive forces that drive NPC behav
 Every charge has a natural complement—like a mother holding a child. The complement is not the opposite charge, but the containing awareness that can hold both the charge and its absence without being compelled by either.
 
 **Examples of Charge Complements**:
+
 - **Success Charge** → Complement: The awareness that can hold both success and failure with equal presence
 - **Safety Charge** → Complement: The awareness that can be present with both security and uncertainty
 - **Approval Charge** → Complement: The awareness that can remain centered whether accepted or rejected
@@ -39,6 +40,7 @@ When evaluating any event, we must examine the charge dynamics from three perspe
 **Surface Analysis**: What did they do? Was it legal? Was it moral according to social standards?
 
 **Charge Analysis**: 
+
 - Which charges were activated in them? (power, control, fear, anger, desire)
 - Which charges did they learn to work with through this experience?
 - Did the event help them develop complements for previously uncontrolled charges?
@@ -51,6 +53,7 @@ When evaluating any event, we must examine the charge dynamics from three perspe
 **Surface Analysis**: What happened to them? What was the apparent harm or damage?
 
 **Charge Analysis**:
+
 - Which charges were activated in them? (safety, trust, control, victim identity)
 - Which charges did they learn to work with through this experience?
 - Did the event force them to develop complements they wouldn't have developed otherwise?
@@ -63,6 +66,7 @@ When evaluating any event, we must examine the charge dynamics from three perspe
 **Surface Analysis**: How did the event affect social order, justice systems, collective beliefs?
 
 **Charge Analysis**:
+
 - Which collective charges were activated? (justice, safety, moral order)
 - How did the society's response help or hinder charge development for all involved?
 - Did the social reaction create new charges or help neutralize existing ones?
@@ -125,6 +129,7 @@ When evaluating any event in your life or in the world, apply the three-perspect
 ##### Personal Events
 
 **Ask for Each Perspective**:
+
 - What charges were activated?
 - What complements might be developing?
 - What archetype could emerge from this experience?
@@ -133,6 +138,7 @@ When evaluating any event in your life or in the world, apply the three-perspect
 ##### World Events
 
 **Look Beyond Surface Judgments**:
+
 - What collective charges are being activated?
 - How might this event serve the development of collective consciousness?
 - What archetypes might humanity be developing through this challenge?

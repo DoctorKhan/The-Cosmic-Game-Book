@@ -160,6 +160,7 @@ List the three most challenging situations currently active in your life. For ea
 **Resistance Pattern:** *(How are you currently fighting against this experience?)*
 
 **Example:**
+
 - **Challenge:** Job loss after 10 years with the company
 - **The Fire:** Intense anxiety about financial security, shame about being "let go," anger at unfair treatment
 - **The Hammer Blows:** Pressure to find new work quickly, having to explain the situation to family, forced to reassess career direction
@@ -179,6 +180,7 @@ For each challenge, imagine you are the wise blacksmith who designed this exact 
 Choose ONE current forge experience to work with consciously. For the next week, practice these responses:
 
 **Daily Check-In Questions:**
+
 - "How can I cooperate with this process rather than resist it?"
 - "What is this experience trying to teach me today?"
 - "How can I add my conscious participation to this forging?"

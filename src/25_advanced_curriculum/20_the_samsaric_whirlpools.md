@@ -72,12 +72,14 @@ Nirodha represents a fundamentally different approach—not escaping the whirlpo
 ##### The Difference Between Moksha and Nirodha
 
 **Moksha (Individual Liberation)**:
+
 - Consciousness escapes its own whirlpools
 - The patterns continue to operate for others
 - Liberation is personal and temporary
 - The samsaric system remains intact
 
 **Nirodha (Current Cancellation)**:
+
 - Consciousness develops the ability to dissolve whirlpools themselves
 - The patterns are neutralized for all participants
 - Liberation becomes systemic and permanent

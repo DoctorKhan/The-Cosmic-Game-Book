@@ -67,6 +67,7 @@ They are the **lighthouses on the shore**, their light a constant, non-interferi
 **Both models arise from love, but they lead to very different kinds of human beings:**
 
 **The Lifeboat Model:**
+
 - External rescue by divine intervention
 - Humans remain passengers in their own salvation  
 - Dependence on institutional mediation
@@ -75,6 +76,7 @@ They are the **lighthouses on the shore**, their light a constant, non-interferi
 - Hierarchy between the saved and the lost
 
 **The Swimming Lessons Model:**
+
 - Internal development supported by community
 - Humans become navigators of their own consciousness
 - Direct connection to source wisdom
