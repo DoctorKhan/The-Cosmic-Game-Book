@@ -52,9 +52,10 @@ The child-part is running its protective program because it believes it is alone
 ##### Step 4: A New Role in the Family (Transformation)
 Once the part feels safe and seen, it no longer needs to run its old, extreme survival strategy. Its energy is now free to serve the family in a new, healthy way. You can invite it into a new role.
 
-*   The **hyper-vigilant child** can become your **master of intuition**.
-*   The **angry child** can become your **guardian of healthy boundaries**.
-*   The **people-pleasing child** can become your **ambassador of compassion**.
+*   The **hyper-vigilant child**, once healed, graduates to become your **master of intuition (The Seer Archetype)**.
+*   The **angry child** transforms into your **guardian of healthy boundaries (The Warrior Archetype)**.
+*   The **people-pleasing child** evolves into your **ambassador of compassion (The Diplomat Archetype)**.
+*   The **ashamed, hiding child** emerges as your **keeper of authentic creativity (The Artist Archetype)**.
 
 The child isn't banished; it graduates. It takes its rightful place in the loving family of your soul, contributing its unique gifts to the whole.
 

@@ -8,7 +8,7 @@ This glossary defines the specialized vocabulary used throughout the Consciousne
 
 **The Observer**: The awareness that watches thoughts, emotions, and experiences without being identified with them. Your true identity as consciousness itself, distinct from the content of consciousness.
 
-**The Player vs. The Autopilot**: The Player is your eternal soul/consciousness, the source of conscious choice. The Autopilot is the temporary human personality and its conditioned programming. Most people identify with the Autopilot, forgetting they are the Player who can consciously take the controls.
+**The Player vs. The Autopilot**: The Player is your eternal soul/consciousness, the conductor of your inner "Council of Selves." The Autopilot is the temporary human personality, run by a collection of un-mastered archetypal "characters" and their driving charges.
 
 **The Scribe vs. The Conscious Author**: The Scribe unconsciously rationalizes whatever happens; the Conscious Author deliberately creates meaning from experience. The difference between being lived by life versus consciously living life.
 
@@ -57,6 +57,12 @@ This glossary defines the specialized vocabulary used throughout the Consciousne
 **Hell World Design**: The recognition that Earth is designed as a challenging training environment where even heroes face corruption, teaching the deepest lessons about power, humility, and transcendence.
 
 **Current Cancellation**: The technology of neutralizing karmic patterns by conscious response rather than unconscious reaction.
+
+**Archetypal Composition**: The unique, linear combination of mastered archetypes that constitutes a soul's nature and purpose. The conscious authoring of this composition is the master-level work of the Cosmic Game.
+
+**The Soul's Palette**: The full range of mastered archetypal energies a conscious Player can access and blend to create nuanced, wise responses to reality.
+
+**Uncontrolled vs. Mastered Archetype**: An Uncontrolled Archetype is a reactive "character" driven by a raw emotional charge (e.g., The Tyrant driven by control). A Mastered Archetype is an integrated aspect of the soul that can be wielded consciously as a tool (e.g., The Sovereign, who leads with wisdom).
 
 **The Flotilla**: The community of conscious beings who support each other's awakening while maintaining individual sovereignty.
 
