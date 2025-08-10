@@ -1,7 +1,7 @@
 # The Cosmic Game: A User's Guide to the Meaning of Life
 ## The Ultimate Purpose of Human Experience
 
-*Compiled August 09, 2025 at 10:45 PM*
+*Compiled August 10, 2025 at 4:00 PM*
 
 ---
 
@@ -51,8 +51,12 @@ Welcome to the most important investigation of your life.
 
 ## Introduction: The Final Question
 
-> *You are not a drop in the ocean. You are the entire ocean in a drop.*
-> — Rumi
+> *"The one remains, the many change and pass;
+> Heaven's light forever shines, Earth's shadows fly;
+> Life, like a dome of many coloured glass,
+> Stains the white radiance of Eternity,
+> Until Death tramples it to fragments."*
+> — Percy Bysshe Shelley, *Adonais*
 
 We have come far together on this journey of investigation.
 
@@ -180,6 +184,8 @@ This Quick Start Guide distills the core practices from the entire series into a
 - Are you your thoughts, or are you the awareness that observes them?
 - What happens to your emotional reactions when you observe them instead of being them?
 
+**The Key Recognition**: This practice is not about reasoning your way to awareness—it is about going to a place in awareness that exists prior to all reasoning. You are not trying to figure out who the observer is; you are resting as the observer itself. Remembrance is not reasoning; it is the direct recognition of what you already are beyond all mental objects.
+
 ###### Week 2: The Charge Investigation
 **Goal**: Recognize your emotional reactions as sacred curriculum rather than random suffering.
 
@@ -285,6 +291,9 @@ The cosmic game is not a belief system to adopt, but a reality to investigate. T
 ## Part 1: The Architecture of the University
 
 ### Part 1: The Architecture of the University
+
+*"If the doors of perception were cleansed every thing would appear to man as it is, Infinite."*
+— William Blake, *The Marriage of Heaven and Hell*
 
 Before we can understand the purpose of the cosmic game, we must first understand its fundamental structure. What you call "reality" is far more sophisticated and intentional than it appears.
 
