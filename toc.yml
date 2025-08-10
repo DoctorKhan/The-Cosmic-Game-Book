@@ -1,0 +1,138 @@
+book:
+  title: "The Cosmic Game: A User's Guide to the Meaning of Life"
+  subtitle: "The Ultimate Purpose of Human Experience"
+  author: "Rez Khan"
+  book_number: 4
+  description: "The final revelation: why the elaborate game of human existence was designed, how consciousness evolves through incarnation, and what lies beyond graduation from Earth's cosmic university."
+  keywords: ["consciousness", "spirituality", "meaning of life", "soul evolution", "metaphysics", "reincarnation"]
+
+structure:
+  # Introduction Section
+  - file: "00_introduction/00_foreword.md"
+    title: "Foreword: A Personal Invitation from the Author"
+    type: "introduction"
+    
+  - file: "00_introduction/00_the_final_question.md"
+    title: "Introduction: The Final Question"
+    type: "introduction"
+    
+  - file: "00_introduction/05_quick_start_guide.md"
+    title: "Quick Start Guide: A 30-Day Field Manual for Your Own Awakening"
+    type: "introduction"
+
+  # Part 1: The Architecture of the University
+  - file: "10_part/00_part_1_the_architecture_of_the_university.md"
+    title: "Part 1: The Architecture of the University"
+    type: "part"
+    
+  - file: "10_part/10_the_player_not_the_piece.md"
+    title: "The Player, Not the Piece"
+    type: "chapter"
+    
+  - file: "10_part/20_the_grand_simulation.md"
+    title: "The Grand Simulation"
+    type: "chapter"
+    
+  - file: "10_part/25_parable_sword_forge.md"
+    title: "Parable: The Sword and the Forge"
+    type: "chapter"
+    
+  - file: "10_part/30_the_technology_of_the_soul.md"
+    title: "The Technology of the Soul"
+    type: "chapter"
+
+  # Part 2: The Mechanics of Mastery
+  - file: "20_part/00_part_2_the_mechanics_of_mastery.md"
+    title: "Part 2: The Mechanics of Mastery"
+    type: "part"
+    
+  - file: "20_part/10_the_cosmic_rhythm.md"
+    title: "The Cosmic Rhythm"
+    type: "chapter"
+    
+  - file: "20_part/20_the_physics_of_choice.md"
+    title: "The Physics of Choice"
+    type: "chapter"
+    
+  - file: "20_part/30_the_compass_of_the_soul.md"
+    title: "The Compass of the Soul"
+    type: "chapter"
+
+  # Part 3: Advanced Curriculum
+  - file: "25_advanced_curriculum/00_part_3_advanced_curriculum.md"
+    title: "Part 3: Advanced Curriculum & Case Studies"
+    type: "part"
+    
+  - file: "25_advanced_curriculum/10_the_wolf_prince_teaching.md"
+    title: "The Wolf Prince Teaching"
+    type: "chapter"
+    
+  - file: "25_advanced_curriculum/20_the_samsaric_whirlpools.md"
+    title: "The Samsaric Whirlpools"
+    type: "chapter"
+    
+  - file: "25_advanced_curriculum/30_the_charge_dynamics.md"
+    title: "The Charge Dynamics"
+    type: "chapter"
+    
+  - file: "25_advanced_curriculum/40_the_family_of_the_soul.md"
+    title: "The Family of the Soul"
+    type: "chapter"
+
+  # Part 4: Trial Framework
+  - file: "27_trial_framework/00_part_4_trial_framework.md"
+    title: "Part 4: The Trial Framework"
+    type: "part"
+    
+  - file: "210_part_iv_intro.md"
+    title: "The Investigation Concludes"
+    type: "chapter"
+    
+  - file: "230_meta_game.md"
+    title: "The Meta Game"
+    type: "chapter"
+    
+  - file: "27_trial_framework/35_investigator_roundtable_trial.md"
+    title: "Investigator Roundtable: The Trial"
+    type: "chapter"
+
+  # Conclusion
+  - file: "30_conclusion/00_the_great_work.md"
+    title: "The Great Work"
+    type: "chapter"
+    
+  - file: "30_conclusion/05_the_lifeboat_and_the_flotilla.md"
+    title: "The Lifeboat and the Flotilla"
+    type: "chapter"
+    
+  - file: "30_conclusion/10_your_invitation_to_the_flotilla.md"
+    title: "Your Invitation to the Flotilla"
+    type: "chapter"
+    
+  - file: "30_conclusion/15_parable_map_territory.md"
+    title: "Parable: The Map and the Territory"
+    type: "chapter"
+    
+  - file: "30_conclusion/20_glossary.md"
+    title: "Glossary"
+    type: "appendix"
+
+# Build configuration
+build:
+  source_dir: "src"
+  output_dir: "output/final"
+  
+# Output configuration  
+output:
+  markdown:
+    filename: "The_Cosmic_Game_Complete_Book.md"
+  html:
+    filename: "index.html"
+
+# Metadata
+metadata:
+  version: "3.0"
+  last_updated: "2025-08-10"
+  word_count_target: 90000
+  structure_type: "gap_based"
+  gap_increment: 10
