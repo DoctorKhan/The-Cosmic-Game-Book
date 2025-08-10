@@ -1,5 +1,8 @@
 ## Part 1: The Architecture of the University
 
+*"If the doors of perception were cleansed every thing would appear to man as it is, Infinite."*
+— William Blake, *The Marriage of Heaven and Hell*
+
 Before we can understand the purpose of the cosmic game, we must first understand its fundamental structure. What you call "reality" is far more sophisticated and intentional than it appears.
 
 This part reveals the basic architecture of the learning environment you inhabit—the nature of your true identity, the design of the simulation itself, and the technology by which your soul learns and grows.

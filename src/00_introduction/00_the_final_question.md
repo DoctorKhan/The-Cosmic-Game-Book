@@ -1,7 +1,11 @@
 # Introduction: The Final Question
 
-> *You are not a drop in the ocean. You are the entire ocean in a drop.*
-> — Rumi
+> *"The one remains, the many change and pass;
+> Heaven's light forever shines, Earth's shadows fly;
+> Life, like a dome of many coloured glass,
+> Stains the white radiance of Eternity,
+> Until Death tramples it to fragments."*
+> — Percy Bysshe Shelley, *Adonais*
 
 We have come far together on this journey of investigation.
 
