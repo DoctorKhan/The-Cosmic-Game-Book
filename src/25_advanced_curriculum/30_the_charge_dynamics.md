@@ -88,6 +88,7 @@ These three pathways represent direct access to the happiness that exists beyond
 - **Beyond Duality**: True reality transcends all dualities, including the positive and negative charges that drive the seeking mind
 - **Unchanging and Eternal**: Truth is permanent, unchanging, and transcends the temporal movement of charges
 - **Not a Concept, But Reality Itself**: Truth is not an intellectual understanding but the fundamental nature of existence—the ground of all being
+- **Beyond the Object of Awareness**: Truth cannot be reasoned to or figured out—it is accessed by moving beyond all objects of awareness to the awareness itself. This is remembrance, not reasoning; recognition, not analysis
 - **Realizing the Self**: The path to truth involves recognizing the true Self as identical to ultimate reality, dissolving the illusion of separation that creates the charge system
 
 **Beauty (Sundaram)**:
@@ -101,6 +102,10 @@ These three pathways represent direct access to the happiness that exists beyond
 - **The Essence of Being**: When something is truly loved, the essence of one's own being is recognized and loved in that person or thing
 
 Each of these pathways offers direct access to the happiness that the charge system promises but can never deliver.
+
+**The Discovery Principle**: These pathways are found, not understood. Like hidden treasures within consciousness, they exist as living realities that can be discovered through direct experience, but they cannot be grasped through intellectual analysis. You don't learn about Truth, Beauty, and Love—you find them within yourself, recognize them as what you have always been seeking.
+
+**The Transmission of Awakening**: Just as knowledge can be transferred from teacher to student through words and concepts, the energy of these pathways can be transmitted directly from one consciousness to another. When someone has found these living realities within themselves, their very presence can activate that same recognition in others. This is why being around truly awakened beings can spontaneously dissolve the charge system—their embodied realization transmits the energy that bypasses all seeking.
 
 ##### The Complement Principle
 

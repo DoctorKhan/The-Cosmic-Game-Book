@@ -19,6 +19,8 @@ At this level, there are only two fundamental forces:
 
 **Pure Awareness**: The capacity to witness experience without being identified with any particular content. This is the "player" that can observe all games without being trapped by any of them.
 
+**Beyond the Object of Awareness**: Pure awareness is not something you can think about or analyze—it is what you are prior to all thinking and analyzing. To access it, you must move beyond the object of awareness (thoughts, emotions, experiences) to the awareness itself. This is not a reasoning process but a direct recognition, a remembrance of what you have always been beneath all the content of consciousness.
+
 **The Need for Games**: The tendency of consciousness to create and defend meanings, structures, and identities. This is not a problem to be solved but a fundamental creative force that generates all experience.
 
 The Meta-Game is the dance between these two forces—the eternal play between form and formlessness, meaning and emptiness, engagement and detachment.

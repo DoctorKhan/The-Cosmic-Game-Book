@@ -23,6 +23,8 @@ This Quick Start Guide distills the core practices from the entire series into a
 - Are you your thoughts, or are you the awareness that observes them?
 - What happens to your emotional reactions when you observe them instead of being them?
 
+**The Key Recognition**: This practice is not about reasoning your way to awareness—it is about going to a place in awareness that exists prior to all reasoning. You are not trying to figure out who the observer is; you are resting as the observer itself. Remembrance is not reasoning; it is the direct recognition of what you already are beyond all mental objects.
+
 ##### Week 2: The Charge Investigation
 **Goal**: Recognize your emotional reactions as sacred curriculum rather than random suffering.
 
