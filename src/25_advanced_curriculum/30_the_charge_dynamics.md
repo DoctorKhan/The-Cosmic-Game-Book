@@ -28,6 +28,13 @@ Here we encounter one of the most profound insights about the nature of charges 
 
 **The Source Beyond Charges**: True happiness—the subtle, unconditional contentment that doesn't depend on circumstances—comes from somewhere else entirely. It emerges from the awareness that can observe the charge system without being compelled by it. This is what spiritual traditions often mean by "returning to God," though it points to something far greater than any anthropomorphic conception of divinity.
 
+Rumi understood this profound truth when he wrote:
+
+*"You are not just the drop in the ocean,
+but the entire ocean in each drop."*
+
+The happiness we seek through charges is like a drop trying to find the ocean by moving from place to place. But the ocean—the infinite awareness that is our true nature—is already fully present in each moment of experience. We are not seeking happiness; we *are* happiness, temporarily forgetting ourselves in the movement of charges.
+
 **The Liberation**: When we recognize that "this will make me happy" or "that makes me unhappy" refers only to the temporary movement of charges—not to happiness itself—we can short-circuit the programming. We give up the idea that the charge system will produce lasting fulfillment, and in that surrender, we become free to experience the more subtle form of happiness that exists independent of all charges.
 
 **The Flow State**: But there is an even more advanced understanding. Rather than simply transcending the charge system, consciousness can learn to be in flow with the charges themselves. However, this creates a subtle trap: **the illusion that dancing with charges produces happiness causes consciousness to remain engaged with them.**
@@ -50,6 +57,16 @@ There would be no dance, and there is only the dance."*
 The "still point" is the awareness beyond all charges—neither positive nor negative, neither seeking nor avoiding. From this still point, the entire dance of charges becomes possible. The dance with success and failure, pleasure and pain, love and loss—all of it emerges from and returns to this motionless center.
 
 **The Essential Recognition**: Without the still point, there would be no dance. But there is only the dance. The still point doesn't participate in the movement of charges, yet it makes all movement possible. Happiness is not found in the dance of charges, no matter how skillful. Happiness *is* the still point—the unchanging awareness that allows the entire cosmic game to unfold.
+
+Percy Bysshe Shelley captured this same recognition in his mystical verse:
+
+*"The one remains, the many change and pass;
+Heaven's light forever shines, Earth's shadows fly;
+Life, like a dome of many coloured glass,
+Stains the white radiance of Eternity,
+Until Death tramples it to fragments."*
+
+The "one" that remains is the still point of awareness—the white radiance of pure consciousness. All the charges, all the dancing, all the seeking and avoiding are like the "dome of many coloured glass" that stains this eternal radiance with the appearance of multiplicity. The charges create the illusion of separation, of different experiences, of things to gain and lose. But beneath all the colored fragments of experience lies the unchanging white light of awareness itself.
 
 This recognition is the foundation of all spiritual development: **happiness is not the result of getting what you want, but the natural state of consciousness when it stops being compelled by the wanting itself—and recognizes itself as the still point from which all dancing emerges.**
 
