@@ -38,7 +38,20 @@ Here we encounter one of the most profound insights about the nature of charges 
 
 **The Ultimate Paradox**: The master learns to surf the waves of charges not because surfing produces happiness, but because the illusion that it might keeps consciousness engaged with life. The deepest freedom is recognizing that even mastery is a game within the game—skillfully played, but held lightly, sourced always from the happiness that exists prior to any engagement whatsoever.
 
-This recognition is the foundation of all spiritual development: **happiness is not the result of getting what you want, but the natural state of consciousness when it stops being compelled by the wanting itself—and learns to flow with the entire spectrum of experience from a place of unshakable presence.**
+**The Still Point and the Dance**: T.S. Eliot captured this paradox perfectly in his mystical insight:
+
+*"At the still point of the turning world. Neither flesh nor fleshless;
+Neither from nor towards; at the still point, there the dance is,
+But neither arrest nor movement. And do not call it fixity,
+Where past and future are gathered. Neither movement from nor towards,
+Neither ascent nor decline. Except for the point, the still point,
+There would be no dance, and there is only the dance."*
+
+The "still point" is the awareness beyond all charges—neither positive nor negative, neither seeking nor avoiding. From this still point, the entire dance of charges becomes possible. The dance with success and failure, pleasure and pain, love and loss—all of it emerges from and returns to this motionless center.
+
+**The Essential Recognition**: Without the still point, there would be no dance. But there is only the dance. The still point doesn't participate in the movement of charges, yet it makes all movement possible. Happiness is not found in the dance of charges, no matter how skillful. Happiness *is* the still point—the unchanging awareness that allows the entire cosmic game to unfold.
+
+This recognition is the foundation of all spiritual development: **happiness is not the result of getting what you want, but the natural state of consciousness when it stops being compelled by the wanting itself—and recognizes itself as the still point from which all dancing emerges.**
 
 ##### The Complement Principle
 
