@@ -1,7 +1,7 @@
 # The Cosmic Game: A User's Guide to the Meaning of Life
 ## The Ultimate Purpose of Human Experience
 
-*Compiled August 11, 2025 at 11:36 PM*
+*Compiled August 12, 2025 at 10:58 AM*
 
 ---
 
@@ -445,6 +445,10 @@ This glossary defines the specialized vocabulary used throughout the Consciousne
 **Hell World Design**: The recognition that Earth is designed as a challenging training environment where even heroes face corruption, teaching the deepest lessons about power, humility, and transcendence.
 
 **Current Cancellation**: The technology of neutralizing karmic patterns by conscious response rather than unconscious reaction.
+
+**Melam**: Ancient Sumerian term for the magnificent, divine aura that a person could carry—the visible radiance of consciousness that has integrated its challenges into wisdom.
+
+**Ni**: Ancient Sumerian term for the awe-inspiring sensation felt in the body when in the presence of someone carrying melam—the cellular recognition of mastery.
 
 **Archetypal Composition**: The unique, linear combination of mastered archetypes that constitutes a soul's nature and purpose. The conscious authoring of this composition is the master-level work of the Cosmic Game.
 

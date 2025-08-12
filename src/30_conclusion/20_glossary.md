@@ -58,6 +58,10 @@ This glossary defines the specialized vocabulary used throughout the Consciousne
 
 **Current Cancellation**: The technology of neutralizing karmic patterns by conscious response rather than unconscious reaction.
 
+**Melam**: Ancient Sumerian term for the magnificent, divine aura that a person could carry—the visible radiance of consciousness that has integrated its challenges into wisdom.
+
+**Ni**: Ancient Sumerian term for the awe-inspiring sensation felt in the body when in the presence of someone carrying melam—the cellular recognition of mastery.
+
 **Archetypal Composition**: The unique, linear combination of mastered archetypes that constitutes a soul's nature and purpose. The conscious authoring of this composition is the master-level work of the Cosmic Game.
 
 **The Soul's Palette**: The full range of mastered archetypal energies a conscious Player can access and blend to create nuanced, wise responses to reality.
