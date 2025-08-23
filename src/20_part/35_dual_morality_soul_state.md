@@ -34,6 +34,25 @@ The burden of proof rests with the individual compelled by conscience.
 - Humility over charisma
 - Reputation that accrues across seasons
 
+See: Appendix — Advisor Protocols → Quick Tests.
+
+
+
+### The Path of External Action (no‑meditation on‑ramp)
+- Consistency over time under pressure
+- Positive fruits (reconciliation, wellbeing, flourishing)
+- Humility (service without status‑seeking)
+- Community vetting (reputation accrued across seasons)
+Use these outside‑in practices when you’re not ready for deep interior work. They function as social diagnostics of wisdom and often lead to genuine inner peace over time. See Book 3 Appendix for the live debate.
+
+### Cleric vs Moral Advisor (authority sources)
+- Cleric: top‑down, asserted divine mandate; judge of meanings; failure mode = schism/coercion
+
+See: Appendix — Advisor Protocols → Four Spheres Conflict Map.
+
+- Moral Advisor: bottom‑up, earned authority via fruits; mediator/bridge; known risk = charisma trap
+Guideline: treat charisma as a red flag to test, not a reason to follow.
+
 ---
 
 ## Four Spheres placement

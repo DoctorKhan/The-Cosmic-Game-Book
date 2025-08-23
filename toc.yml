@@ -122,6 +122,10 @@ structure:
     title: "Glossary"
     type: "appendix"
 
+  - file: "90_appendix/90_advisor_protocols.md"
+    title: "Appendix: Advisor Protocols"
+    type: "appendix"
+
 # Build configuration
 build:
   source_dir: "src"
