@@ -1,7 +1,7 @@
 # The Cosmic Game: A User's Guide to the Meaning of Life
 ## The Ultimate Purpose of Human Experience
 
-*Compiled August 23, 2025 at 10:05 PM*
+*Compiled August 24, 2025 at 1:00 PM*
 
 ---
 
@@ -501,6 +501,18 @@ This glossary defines the specialized vocabulary used throughout the Consciousne
 ---
 
 *Remember: These definitions are provisional and functional. Your own direct experience is the ultimate authority. Use these concepts as tools for investigation, not as truths to be believed.*
+
+
+## References and Sources
+
+Key references and inspirations consolidated for convenience.
+
+- Non‑dual literature echoed throughout (Spira’s lineages and poetry quotes: Rumi, Blake, Shakespeare, Shelley, Kathleen Raine, Yeats)
+- Comparative religion and philosophy touchstones referenced in-text
+- Selected contemporary scholarship on consciousness, near‑death experiences, and contemplative science
+
+Note: Chapters use bracketed callouts [see: References and Sources] instead of inline citations.
+
 
 
 ## Appendix: Advisor Protocols

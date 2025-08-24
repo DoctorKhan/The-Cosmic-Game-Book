@@ -84,6 +84,10 @@ structure:
     title: "The Family of the Soul"
     type: "chapter"
 
+  - file: "25_advanced_curriculum/45_vitality_engine_mythic_interlude.md"
+    title: "Interlude: The Vitality Engine — Winning the Cosmic Game"
+    type: "chapter"
+
   # Part 4: Trial Framework
   - file: "27_trial_framework/00_part_4_trial_framework.md"
     title: "Part 4: The Trial Framework"
@@ -120,6 +124,11 @@ structure:
 
   - file: "30_conclusion/20_glossary.md"
     title: "Glossary"
+    type: "appendix"
+
+
+  - file: "90_appendix/00_references.md"
+    title: "References and Sources"
     type: "appendix"
 
   - file: "90_appendix/90_advisor_protocols.md"
