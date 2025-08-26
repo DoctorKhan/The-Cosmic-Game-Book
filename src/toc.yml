@@ -88,6 +88,10 @@ structure:
     title: "Interlude: The Vitality Engine — Winning the Cosmic Game"
     type: "chapter"
 
+  - file: "25_advanced_curriculum/50_religious_shortfalls.md"
+    title: "The Religious Shortfalls: When Family Protocols Become Engine Protocols"
+    type: "chapter"
+
   # Part 4: Trial Framework
   - file: "27_trial_framework/00_part_4_trial_framework.md"
     title: "Part 4: The Trial Framework"

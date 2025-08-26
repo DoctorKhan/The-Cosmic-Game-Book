@@ -1,7 +1,7 @@
 # The Cosmic Game: A User's Guide to the Meaning of Life
 ## The Ultimate Purpose of Human Experience
 
-*Compiled August 24, 2025 at 10:24 PM*
+*Compiled August 25, 2025 at 10:14 PM*
 
 ---
 
@@ -361,6 +361,7 @@ Here you will encounter the deepest teachings about why the game was designed wi
 
 These are not beginner concepts. They require a solid foundation in the Observer, a working understanding of your charges as curriculum, and the emotional stability that comes from recognizing your true nature as the Player, not the piece.
 
+
 ### The Advanced Teachings
 
 **The Wolf-Prince Teaching**: Why heroes must fall and how apparent corruption serves the deepest curriculum
@@ -368,6 +369,8 @@ These are not beginner concepts. They require a solid foundation in the Observer
 **The Samsaric Whirlpools**: The mechanics of karmic binding and the technology of liberation
 
 **The Charge Dynamics**: Advanced understanding of how consciousness creates learning through polarity
+
+**Morality, Trellis, and the Cage**: Navigating the difference between life-serving structure and soul-crushing control, and how to use vector morality as a compass within the Cosmic Game
 
 These teachings will challenge everything you think you know about good and evil, success and failure, light and shadow. They reveal the cosmic intelligence behind even the most difficult experiences.
 
