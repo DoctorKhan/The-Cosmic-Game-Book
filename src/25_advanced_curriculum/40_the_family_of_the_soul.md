@@ -1,4 +1,4 @@
-### Chapter X: The Family of the Soul: Integrating Your Inner Children
+### Chapter X: The Kin of the Soul: Integrating Your Inner Children
 
 *In Manual Override, you were introduced to a powerful psychological tool: the practice of seeing your reactive patterns not as "you," but as "parts" of you. You learned to reframe a thought like "I'm a failure" into "A part of me feels like a failure." You approached this as a team leader managing a specialist employee—a functional technique for creating the space needed for Manual Override.*
 
@@ -49,7 +49,7 @@ The child-part is running its protective program because it believes it is alone
 *   You say to the part, **"Thank you for working so hard to protect me for all these years. I see how much energy it has taken. I want you to know something: that moment is over. We survived. I am an adult now, and I can handle this. You don't have to do this job anymore. You can rest."**
 *   Feel a sense of love and gratitude for this part. Flood it with the compassion it never received. You are giving the child the one thing that will heal it: the feeling of being seen, loved, and safe.
 
-##### Step 4: A New Role in the Family (Transformation)
+##### Step 4: A New Role in the Kin (Transformation)
 Once the part feels safe and seen, it no longer needs to run its old, extreme survival strategy. Its energy is now free to serve the family in a new, healthy way. You can invite it into a new role.
 
 *   The **hyper-vigilant child**, once healed, graduates to become your **master of intuition (The Seer Archetype)**.

@@ -32,7 +32,7 @@ Imagine a grapevine. The ideal of the vine is to grow, reach the sun, and bear f
 
 ### The Corruption: When the Trellis Becomes a Cage
 
-The Reges and their Engine Protocol represent the corruption of this principle. The trellis becomes iron, a cage. Rules become rigid, designed for control, not growth. The system values the perfection of the trellis over the health of the vine, pruning for order rather than flourishing.
+The Reges and their Machine Protocol represent the corruption of this principle. The trellis becomes iron, a cage. Rules become rigid, designed for control, not growth. The system values the perfection of the trellis over the health of the vine, pruning for order rather than flourishing.
 
 ### Binary Morality vs. Vector Morality
 

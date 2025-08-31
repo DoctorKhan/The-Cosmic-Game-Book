@@ -1,8 +1,8 @@
-# Interlude: The Vitality Engine — A Cultural OS for Winning the Cosmic Game
+# Interlude: The Vitality Machine — A Cultural OS for Winning the Cosmic Game
 
 ### The Diagnosis: Life Force Under Siege
 
-Widespread depression, loneliness, and collapsing fertility rates are not isolated social problems; they are the vital signs of a species trapped within the Social Game—a control system that extracts life force through the Engine Protocol. Our collective exhaustion is the result of running on obsolete cultural software that privileges extraction over growth and leaves humanity disconnected from the Tree of Life [see: References and Sources].
+Widespread depression, loneliness, and collapsing fertility rates are not isolated social problems; they are the vital signs of a species trapped within the Social Game—a control system that extracts life force through the Machine Protocol. Our collective exhaustion is the result of running on obsolete cultural software that privileges extraction over growth and leaves humanity disconnected from the Tree of Life [see: References and Sources].
 
 This interlude is a blueprint for installing a new cultural operating system (OS). It is a practical guide for building communities that can actively resist the Rulers' programming and begin the sacred work of reuniting the Tree of Knowledge with the Tree of Life.
 
@@ -21,9 +21,9 @@ Why it wins: A sovereign, high‑trust community becomes a node of the Networked
 
 ---
 
-### Pillar 2: The Noble Struggle (Starving the Engine)
+### Pillar 2: The Noble Struggle (Starving the Machine)
 
-The Principle: A strong "us" is forged in a compelling challenge. The Social Game locks humanity into horizontal conflict. To break free, redirect energy toward a vertical struggle against a benign "them": the Engine Protocol itself—programmed apathy, isolation, and civilizational decay.
+The Principle: A strong "us" is forged in a compelling challenge. The Social Game locks humanity into horizontal conflict. To break free, redirect energy toward a vertical struggle against a benign "them": the Machine Protocol itself—programmed apathy, isolation, and civilizational decay.
 
 System Integration:
 - Name Your Dragon: In your charter, define the abstract force you fight—apathy, nihilism, social isolation—rather than another group of people.
@@ -47,9 +47,9 @@ Why it wins: It replaces fear/scarcity narratives with a positive pole that pull
 
 ---
 
-### Pillar 4: Aspirational Thrift (Living the Family Protocol)
+### Pillar 4: Aspirational Thrift (Living the Kin Protocol)
 
-The Principle: The Engine Protocol elevates aspirational luxury—consumption and status games that drain vitality. The antidote is Aspirational Thrift, where status comes from contribution and skill. This is the practical expression of the Family Protocol: authentic connection and creation.
+The Principle: The Machine Protocol elevates aspirational luxury—consumption and status games that drain vitality. The antidote is Aspirational Thrift, where status comes from contribution and skill. This is the practical expression of the Kin Protocol: authentic connection and creation.
 
 System Integration:
 - Ritualize Contribution: Potlucks, barn‑raisings, skill‑shares—rituals that nurture the Tree of Life.
