@@ -1,4 +1,4 @@
-# Foreword: A Personal Invitation from the Author
+# Chapter 11: Foreword: A Personal Invitation from the Author
 
 *Dear Fellow Traveler,*
 

@@ -1,4 +1,4 @@
-# References and Sources
+# Chapter 8: References and Sources
 
 Key references and inspirations consolidated for convenience.
 

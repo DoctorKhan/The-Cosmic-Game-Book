@@ -1,4 +1,4 @@
-# The Religious Shortfalls: When Kin Protocols Become Machine Protocols
+# Chapter 29: The Religious Shortfalls: When Kin Protocols Become Machine Protocols
 
 An analysis of the world's major religions through the lens of the "Cosmic Game" framework reveals a consistent pattern: many originated as "Kin Protocols" or "consciousness technologies" designed for human development. Over time, these systems were often corrupted or re-written into "Machine Protocols" that serve purposes of social control, reflecting a broader historical conflict between two cosmic factions: the nurturing "Werdh-anes" (Gardeners) and the controlling "Reges" (Rulers).
 

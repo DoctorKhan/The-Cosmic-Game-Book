@@ -1,4 +1,4 @@
-# The Dual Morality: The Soul and the State
+# Chapter 25: The Dual Morality: The Soul and the State
 
 The Cosmic Game asks you to become the player, not the piece. This chapter defines the working interface between inner and outer morality for advanced practice.
 
@@ -12,6 +12,7 @@ Note: For the full debate transcript that derives this framework, see The Human 
 - State: equal, explicit rules — actions judged procedurally (audited, not deep)
 
 Opposite strengths:
+
 - The soul can discern depth but cannot be audited.
 - The state can be audited but cannot discern depth.
 
@@ -39,6 +40,7 @@ See: Appendix — Advisor Protocols → Quick Tests.
 
 
 ### The Path of External Action (no‑meditation on‑ramp)
+
 - Consistency over time under pressure
 - Positive fruits (reconciliation, wellbeing, flourishing)
 - Humility (service without status‑seeking)
@@ -46,6 +48,7 @@ See: Appendix — Advisor Protocols → Quick Tests.
 Use these outside‑in practices when you’re not ready for deep interior work. They function as social diagnostics of wisdom and often lead to genuine inner peace over time. See Book 3 Appendix for the live debate.
 
 ### Cleric vs Moral Advisor (authority sources)
+
 - Cleric: top‑down, asserted divine mandate; judge of meanings; failure mode = schism/coercion
 
 See: Appendix — Advisor Protocols → Four Spheres Conflict Map.

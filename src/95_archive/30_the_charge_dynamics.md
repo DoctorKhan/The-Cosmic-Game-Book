@@ -85,6 +85,7 @@ While the charge system cannot produce lasting happiness, there are direct pathw
 These three pathways represent direct access to the happiness that exists beyond all charges:
 
 **Truth (Satyam)**:
+
 - **Beyond Duality**: True reality transcends all dualities, including the positive and negative charges that drive the seeking mind
 - **Unchanging and Eternal**: Truth is permanent, unchanging, and transcends the temporal movement of charges
 - **Not a Concept, But Reality Itself**: Truth is not an intellectual understanding but the fundamental nature of existence—the ground of all being
@@ -92,11 +93,13 @@ These three pathways represent direct access to the happiness that exists beyond
 - **Realizing the Self**: The path to truth involves recognizing the true Self as identical to ultimate reality, dissolving the illusion of separation that creates the charge system
 
 **Beauty (Sundaram)**:
+
 - **Experiencing Wholeness**: Beauty is the collapse of separation between observer and observed—a direct recognition of underlying oneness
 - **Not Based on Flawlessness**: True beauty appreciates the natural state, including imperfections, transcending the charge system's judgments of good and bad
 - **Inner Consciousness of Bliss**: Beauty is associated with an inner state of bliss (Ananda), where awareness reflects its own radiant nature
 
 **Love**:
+
 - **The Dissolution of Separation**: Love is the recognition of shared being, the dissolution of the illusion that creates the charge system
 - **Unconditional and Impersonal**: Non-dual love transcends the conditional love that operates through charges of attraction and aversion
 - **The Essence of Being**: When something is truly loved, the essence of one's own being is recognized and loved in that person or thing

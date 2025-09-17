@@ -1,4 +1,4 @@
-# Quick Start Guide: A 30-Day Field Manual for Your Own Awakening
+# Chapter 22: Quick Start Guide: A 30-Day Field Manual for Your Own Awakening
 
 *"The best way to understand the cosmic game is not to read about it, but to play it consciously."*
 

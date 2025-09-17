@@ -1,4 +1,4 @@
-# Appendix: Advisor Protocols — Earned Authority in Practice
+# Chapter 31: Appendix: Advisor Protocols — Earned Authority in Practice
 
 A compact field guide for recognizing and scaffolding moral wisdom in communities without recreating clerical rigidities.
 
